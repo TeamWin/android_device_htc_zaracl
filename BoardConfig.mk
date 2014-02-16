@@ -43,3 +43,5 @@ TW_INTERNAL_STORAGE_MOUNT_POINT := "data"
 TW_EXTERNAL_STORAGE_PATH := "/external_sd"
 TW_EXTERNAL_STORAGE_MOUNT_POINT := "usb-otg"
 TW_NO_USB_STORAGE := true
+
+TARGET_RECOVERY_INITRC := device/htc/zaracl/recovery/init.rc
